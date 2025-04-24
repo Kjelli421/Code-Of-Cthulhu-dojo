@@ -60,11 +60,11 @@ Prerequisites
 
 Quick Setup
 
-git clone https://github.com/yourusername/code-of-cthulhu.git
-cd code-of-cthulhu
+git clone https://github.com/kjelli421/Code-Of-Cthulhu-dojo.git
+cd Code-Of-Cthulhu-dojo
 docker-compose up --build
 
-Visit: http://localhost:5000
+Visit: http://localhost
 
 Log in or register through the web interface to start interacting with the application.
 Intended Audience
@@ -79,20 +79,9 @@ Intended Audience
 
     Web application security researchers
 
-Project Structure
+To log into a user, check out the db file. 
 
-/code-of-cthulhu/
-├── app/                    # Flask application
-│   ├── routes/             # API endpoints and web routes
-│   ├── templates/          # HTML templates
-│   ├── static/             # CSS, JS, and images
-│   └── vulnerabilities/    # Simulated exploits and logic flaws
-├── scripts/                # Shell scripts for simulating OS-level behavior
-├── db/                     # MySQL init scripts
-├── docker-compose.yml
-├── Dockerfile
-└── README.md
-
+More informaiton will be added here soon.
 
 Acknowledgements
 
