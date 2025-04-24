@@ -93,15 +93,7 @@ Project Structure
 ├── Dockerfile
 └── README.md
 
-Screenshots
 
-(Include screenshots or screen recordings here.)
-Legal & Ethical Notice
-
-This project is strictly for educational and authorized penetration testing. Do not use this platform on systems you do not own or have explicit permission to test.
-License
-
-MIT License — see LICENSE for details.
 Acknowledgements
 
     Developed by Kjell Morten Gudmestad
